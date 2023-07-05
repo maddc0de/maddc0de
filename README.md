@@ -1,6 +1,6 @@
 ## 👋 Hello world! I'm Madelane Daz
 
-- 🔭 I have recently graduated from Makers Academy Software Development Bootcamp and I am open to roles
+- 🔭 I have recently graduated from [Makers Academy](https://makers.tech/) Software Development Bootcamp and I am open to roles
 - 🌱 I’m currently improving my skills in Javascript and React
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madelanedaz/)
 - 📄 See my CV [here](https://github.com/maddc0de/CV)
