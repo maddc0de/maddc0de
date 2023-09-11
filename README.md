@@ -11,7 +11,7 @@
 
    🔭 I have recently graduated from [Makers Academy](https://makers.tech/) Software Development Bootcamp and I am open to roles
 
-   🌱 I’m currently improving my skills in React and want to learn React Native and TypeScript
+   🌱 I’m currently improving my skills in React and Python and want to learn React Native with TypeScript
 </section>
 
 <section align="center">
