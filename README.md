@@ -2,16 +2,12 @@
 
 <section align="center">
    <a href="https://madelane.netlify.app/" target="_blank" style="margin: 5px;"><img src="https://img.shields.io/badge/portfolio-dedcc8?style=for-the-badge"target="_blank" alt="porfolio"></a>
-   <a href="https://github.com/maddc0de/CV" target="_blank" style="margin: 5px;"><img src="https://img.shields.io/badge/CV/resume-dedcc8?style=for-the-badge"target="_blank" alt="cv"></a>
    <a href="https://www.linkedin.com/in/madelanedaz/" target="_blank" style="margin: 5px;"><img src="https://img.shields.io/badge/linkedin-dedcc8?style=for-the-badge"target="_blank" alt="linkedin"></a>
 </section>
 
 <section align="center">
    <h2>👋 Hello world! </h2>
-
-   🔭 I have recently graduated from [Makers Academy](https://makers.tech/) Software Development Bootcamp and I am open to roles
-
-   🌱 I’m currently improving my skills in Vuejs and want to learn C#
+   🌱 I’m currently improving my skills in Angular and C# :)
 </section>
 
 <section align="center">
