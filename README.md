@@ -3,19 +3,24 @@
 </section>
 
 <section align="center">
-   <a href="https://madelane.netlify.app/" target="_blank" style="margin: 5px;">
+   <a href="https://maddc0de.github.io/madelane/" target="_blank" style="margin: 5px;">
       <img src="https://img.shields.io/badge/Portfolio-5A9BD5?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank" alt="porfolio">
    </a>
 </section>
 
 <section align="center">
-   <h2>👋 Hello world! </h2>
-   <p>🌱 <strong>I am currently working with:</strong></p>
-   <p>
-      <strong>Frontend:</strong> Angular (TypeScript)<br/>
-      <strong>Backend:</strong> C# · SQL<br/>
-      <strong>DevOps / Tools:</strong> Docker · Azure DevOps
-   </p>
+  <h2>👋 Hello world!</h2>
+  <p>💼 <strong>Previously worked with:</strong></p>
+  <p>
+    <strong>Frontend:</strong> Angular · TypeScript<br/>
+    <strong>Backend:</strong> C# · .NET · SQL<br/>
+    <strong>DevOps / Tools:</strong> Docker · Azure DevOps
+  </p>
+
+  <p>🌱 <strong>Currently learning:</strong></p>
+  <p>
+    Java · Python
+  </p>
 </section>
    
 <section align="center">
@@ -24,7 +29,8 @@
    <!-- Languages -->
    <div>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="20"/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="20"/>
+      <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#" height="20"/>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="java" height="20"/>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="20"/>
       <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" height="20"/>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" height="20"/>
@@ -43,6 +49,7 @@
    <!-- Backend -->
    <div>
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" height="20"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" alt="springboot" height="20"/>
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" height="20"/>
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express.js" height="20"/>
    </div>
@@ -84,10 +91,10 @@
    </div>
 </section>
 
-<section align="center">
+<!-- <section align="center">
    <h2>⚙️ GitHub Analytics</h2>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddc0de&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</section>
+</section> -->
 
 <section align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="footer"/>
